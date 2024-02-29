@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+#Cypress testing
+.vscode
+cypress/screenshots/
+cypress/videos/
+cypress/reports/
+package-lock.json
+*/.DS_Store
+cypress/reports/*

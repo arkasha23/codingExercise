@@ -1,0 +1,15 @@
+export type NavigationTabs =
+| 'VIDEOS'
+| 'MARKEN'
+| 'PARFUM'
+| 'MAKE-UP'
+| 'GESICHT'
+| 'KÖRPER'
+| 'HAARE'
+| 'Apotheke¹ & Gesundheit'
+| 'DOUGLAS COLLECTION'
+| 'HOME & LIFESTYLE'
+| 'SALE'
+| 'Nachhaltigkeit'
+| 'LUXUS'
+| 'NEU';
