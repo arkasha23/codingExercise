@@ -17,6 +17,7 @@ describe('Verify the products based on filters:', () => {
                     FiltersPage.productItemLabel.should('contain', data.criteria);
                 }
             });
+            FiltersPage.filtersBoxes.should('have.length', data.filters.length + 1);
         });
     });
 });

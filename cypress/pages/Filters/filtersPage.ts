@@ -23,6 +23,10 @@ class Filters {
         return cy.get('.facet__menu-content');
     }
 
+    get filtersBoxes() {
+        return cy.get('.selected-facets__value');
+    }
+
     get search() {
         return cy.get('[name="facet-search"]');
     }

@@ -1,10 +1,10 @@
 # Coding Exercise
 
-All tests are stored in master branch.
+All tests are stored in main branch.
 
 ## Execute Cypress tests locally
 1) Make sure that you have already installed [NodeJS](https://nodejs.org/uk/download/) on your computer
-2) Clone repository https
+2) Clone repository https://github.com/arkasha23/codingExercise.git
 3) Open terminal window and switch to directory: ./codingExercise
 4) Execute `npm install`
 5) Execute the following commands:
